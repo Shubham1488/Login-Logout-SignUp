@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mobx": "^6.6.1",
+    "mobx-react": "^7.5.2"
+  }
+}
